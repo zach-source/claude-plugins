@@ -1,0 +1,9 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "DevOps skills: deployment verification, CI polling, Tilt, GitLab CI/CD debugging, Granted",
+  "author": { "name": "Zach Taylor" },
+  "repository": "https://github.com/zach-source/claude-plugins",
+  "license": "MIT",
+  "skills": ["skills/"]
+}

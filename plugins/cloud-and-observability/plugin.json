@@ -1,0 +1,9 @@
+{
+  "name": "cloud-and-observability",
+  "version": "1.0.0",
+  "description": "Cloud and observability skills: AWS, OpenTelemetry (Go/Python), DBOS durable execution",
+  "author": { "name": "Zach Taylor" },
+  "repository": "https://github.com/zach-source/claude-plugins",
+  "license": "MIT",
+  "skills": ["skills/"]
+}

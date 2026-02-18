@@ -1,0 +1,9 @@
+{
+  "name": "ai-memory",
+  "version": "1.0.0",
+  "description": "AI memory and context skills: Graphiti knowledge graph, Context7 docs, replay buffer, prompt context",
+  "author": { "name": "Zach Taylor" },
+  "repository": "https://github.com/zach-source/claude-plugins",
+  "license": "MIT",
+  "skills": ["skills/"]
+}

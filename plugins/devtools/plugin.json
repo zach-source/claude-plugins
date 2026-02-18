@@ -1,0 +1,9 @@
+{
+  "name": "devtools",
+  "version": "1.0.0",
+  "description": "Developer tools: ast-grep, OS-aware grep, tmux/zsh, terminal titles, task management, MCP builder",
+  "author": { "name": "Zach Taylor" },
+  "repository": "https://github.com/zach-source/claude-plugins",
+  "license": "MIT",
+  "skills": ["skills/"]
+}

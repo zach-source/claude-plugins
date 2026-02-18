@@ -1,0 +1,17 @@
+{
+  "name": "zach-source-plugins",
+  "description": "Claude plugin marketplace by zach-source",
+  "version": "1.0.0",
+  "owner": { "name": "Zach Taylor" },
+  "metadata": { "pluginRoot": "./plugins" },
+  "plugins": [
+    { "name": "git-tools", "source": "./plugins/git-tools", "category": "development" },
+    { "name": "devops", "source": "./plugins/devops", "category": "infrastructure" },
+    { "name": "cloud-and-observability", "source": "./plugins/cloud-and-observability", "category": "infrastructure" },
+    { "name": "ai-memory", "source": "./plugins/ai-memory", "category": "ai" },
+    { "name": "documents", "source": "./plugins/documents", "category": "productivity" },
+    { "name": "testing", "source": "./plugins/testing", "category": "development" },
+    { "name": "devtools", "source": "./plugins/devtools", "category": "development" },
+    { "name": "plugin-dev", "source": "./plugins/plugin-dev", "category": "development" }
+  ]
+}

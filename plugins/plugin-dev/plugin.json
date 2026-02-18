@@ -1,0 +1,9 @@
+{
+  "name": "plugin-dev",
+  "version": "1.0.0",
+  "description": "Claude plugin development skills: agents, commands, hooks, MCP, settings, structure, skills, frontend design",
+  "author": { "name": "Zach Taylor" },
+  "repository": "https://github.com/zach-source/claude-plugins",
+  "license": "MIT",
+  "skills": ["skills/"]
+}

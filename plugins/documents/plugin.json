@@ -1,0 +1,9 @@
+{
+  "name": "documents",
+  "version": "1.0.0",
+  "description": "Document creation skills: DOCX generation, D3.js visualizations, Tapestry narratives, file organization",
+  "author": { "name": "Zach Taylor" },
+  "repository": "https://github.com/zach-source/claude-plugins",
+  "license": "MIT",
+  "skills": ["skills/"]
+}
